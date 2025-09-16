@@ -97,7 +97,7 @@ With this dashboard, stakeholders were empowered to:
 ## ✅ 8. Screenshots / Demo
 
 Below are sample screenshots showcasing the key metrics, trends, and visualizations of the Classic Models Sales Dashboard:
-https://github.com/ShwetaMehta08/classicmodels_Dashboard/blob/main/classicmodels_dashboard.png
+![Classic Model Dashboard](https://github.com/ShwetaMehta08/classicmodels_Dashboard/blob/main/classicmodels_dashboard.png)
 
 
 
